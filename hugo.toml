@@ -1,0 +1,7 @@
+baseURL = 'https://example.com/'
+locale = 'en-us'
+title = 'My New Hugo Project'
+theme = 'neopost'
+
+[params]
+  theme = 'light-blue'
