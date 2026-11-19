@@ -1,6 +1,6 @@
 ---
 title: "Competencies"
-date: "2025-02-01T10:00:00-03:00"
+date: "2026-11-18T10:00:00-03:00"
 tags: ["Portfolio","CSC","324","CS"]
 title-images: []
 ending-images: []
